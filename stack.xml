@@ -1,0 +1,9 @@
+<stack>
+  <description brief="gavlab_msgs">gavlab_msgs</description>
+  <author>Maintained by William Woodall</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/gavlab_msgs</url>
+  <depend stack="ros" />
+
+</stack>
